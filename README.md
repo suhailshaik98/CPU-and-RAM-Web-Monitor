@@ -21,7 +21,7 @@ The file is sent to replit by enabling an HTTP server of python3 in the server. 
 * The data present in CPUUsage.csv allows data analysis on how much RAM and CPU utilization percentage is over time. It provides continuous measurements with an interval of 5 minutes.
 The data present in memoryasservice.csv allows us to perform data analysis on how much each program has been using the RAM over a period of time.
 
-* This helps keep track of the server and maintain a record easily without implementing Network Management Software and in a highly cost-efficient manner.
+* This helps keep track of the server and maintain a record easily without implementing Network Management Software and not spending any premium.
 
 ## What can be improved?
 * The data from the server to replit can be sent more securely.
