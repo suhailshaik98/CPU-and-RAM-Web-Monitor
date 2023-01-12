@@ -14,7 +14,7 @@ It contains code for obtaining the data from the static HTML page and also provi
 ## How is the Data obtained?
 The data is obtained by creating a CSV file in the ubuntu server and continue running the code as a service in the server. The records are produced every five minutes and appended to the said file in the server.
 
-## How is the file sent to reply?
+## How is the file sent to replit?
 The file is sent to replit by enabling an HTTP server of python3 in the server. Then on top of this, NGROK is used to make the HTTP server available for a short time. NGROK opens the HTTP port, allowing the code in the replit to request the CSV file to be downloaded.
 
 ## What can be done with the data?
